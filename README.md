@@ -57,8 +57,8 @@ Currently focused on modern JavaScript ecosystems, backend APIs, and performance
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Urten
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- [LinkedIn](https://www.linkedin.com/in/nandan-kumar-kashyap-68469713a/)
+- Email: n363363@gmail.com
 
 ---
 
